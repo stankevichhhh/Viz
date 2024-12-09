@@ -1,9 +1,0 @@
----
-title: "Legends"
-author: "Sofia"
-toc: true
-number-sections: true
-format:
-  html:
-    embed-resources: true
----
